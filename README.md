@@ -1,0 +1,2 @@
+# creating_customer_segments
+udacity creating_customer_segments p3
